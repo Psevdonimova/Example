@@ -2,7 +2,7 @@
 #include <string.h>
 using namespace std;
 int main() {
-for (int i = 0; i < 120; i++) {
+for (int i = 0; i < 140; i++) {
 if (0 == i%3u && 0 != i%2u)
 std::cout << i << " : Fizz";
 else if (0 == i%5u)
