@@ -10,7 +10,7 @@ std::cout << i << " : Buzz";
 else if (0 == i%2u && 0 != i%3u)
 std::cout << i << " : Fuuu";
 else
-std::cout << i;
+std::cout << i << " : Prime number";
 std::cout <<std::endl;
 }
 }
